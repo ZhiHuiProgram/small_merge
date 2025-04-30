@@ -1,0 +1,1 @@
+int garbage_socket();
